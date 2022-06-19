@@ -22,6 +22,12 @@ h1 {
 
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+
+}
+
 .box {
   
   width: 50%;
