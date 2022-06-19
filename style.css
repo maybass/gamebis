@@ -21,3 +21,16 @@ h1 {
 
 
 }
+
+.box {
+  
+  width: 50%;
+  height: 20vh;
+  
+
+}
+
+.red {
+  
+  background: red;
+}
